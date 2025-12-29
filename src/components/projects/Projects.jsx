@@ -82,7 +82,7 @@ const projects = [
     "EmailJS",
     "Performance Optimized"
   ],
-  image: "/My-Portfolio.webp",
+  image: "/portfolio.png",
   liveDemo: "https://my-portfolio-dingan-main-bxv2.vercel.app/",
   githubRepo: "",
   projectColor: "#EA580C"
