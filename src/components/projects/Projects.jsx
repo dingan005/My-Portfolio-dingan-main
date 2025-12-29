@@ -70,23 +70,24 @@ const projects = [
     projectColor: "#432dd7",
   },
   {
-    title: "Modern Portfolio",
-    subtitle: "Sachin - Frontend Developer",
-    description:
-      "Designed and built a fully custom, animation-rich portfolio to leave a strong first impression with custom theme controls: light/dark toggle + custom color, so visitors can personalize their experience...!",
-    tags: [
-      "React",
-      "Tailwind CSS",
-      "Framer Motion",
-      "Context API",
-      "Email Js",
-      "AI",
-    ],
-    image: "/My-Portfolio.webp",
-    liveDemo: "https://sachinpro.vercel.app/",
-    githubRepo: "https://github.com/SachinPro007/My-Portfolio",
-    projectColor: "#EA580C",
-  },
+  title: "Personal Portfolio Website",
+  subtitle: "Dingan — Full-Stack Developer & Technical Mentor",
+  description:
+    "Designed and developed a modern, high-performance personal portfolio to showcase professional experience, projects, and technical expertise. Features smooth animations, responsive layouts, and advanced theme customization with light/dark mode and dynamic accent colors for an enhanced user experience.",
+  tags: [
+    "React",
+    "Tailwind CSS",
+    "Framer Motion",
+    "Context API",
+    "EmailJS",
+    "Performance Optimized"
+  ],
+  image: "/My-Portfolio.webp",
+  liveDemo: "https://my-portfolio-dingan-main-bxv2.vercel.app/",
+  githubRepo: "",
+  projectColor: "#EA580C"
+}
+,
   {
     title: "ShopEase",
     subtitle: "E-Commerce Site - Frontend",
@@ -106,7 +107,7 @@ const projects = [
     ],
     image: "/ecommerce.webp",
     liveDemo: "https://shopease-ecomm.netlify.app",
-    githubRepo: "https://github.com/SachinPro007/ShopEase_E-Commerce",
+    githubRepo: "",
     projectColor: "#d51243",
   },
   {
@@ -123,7 +124,7 @@ const projects = [
     ],
     image: "/ems.webp",
     liveDemo: "https://click-task.netlify.app",
-    githubRepo: "https://github.com/SachinPro007/ClickTask",
+    githubRepo: "",
     projectColor: "#2563eb",
   },
 ];
