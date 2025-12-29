@@ -83,7 +83,7 @@ const projects = [
     "Performance Optimized"
   ],
   image: "/portfolio.png",
-  liveDemo: "https://my-portfolio-dingan-main-bxv2.vercel.app/",
+  liveDemo: "https://my-portfolio-dingan-main-gczj.vercel.app/",
   githubRepo: "",
   projectColor: "#EA580C"
 }
