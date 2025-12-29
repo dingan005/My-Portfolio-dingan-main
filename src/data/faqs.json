@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What technologies do you specialize in?",
+    "answer": "I specialize in full-stack web development using the MERN stack and Python-based backends. My core technologies include React, Next.js, TypeScript, Node.js, Express, Django, MongoDB, and SQL. I also focus on clean architecture, performance optimization, and production-ready workflows."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "I have built multiple real-world applications including eCommerce systems, admin dashboards, analytics platforms, authentication-based CRUD apps, and training-focused full-stack projects. These systems cover API-driven architectures, role-based access, dashboards, and deployment-ready workflows."
+  },
+  {
+    "question": "Do you have experience with DevOps and deployment?",
+    "answer": "Yes. I deploy full-stack applications using platforms like Vercel, Render, and Netlify. I work with Docker for containerization, set up basic CI/CD pipelines, manage environment variables securely, and ensure smooth deployment from development to production."
+  },
+  {
+    "question": "How do you ensure code quality and stability?",
+    "answer": "I follow strong engineering discipline using ESLint, Prettier, and Husky for consistent code quality. I emphasize modular architecture, reusable components, proper API validation, and clean Git workflows to maintain long-term stability and maintainability."
+  },
+  {
+    "question": "Do you have full-stack development experience?",
+    "answer": "Yes. I work comfortably across the entire stack—from building responsive frontends with React to designing REST APIs, handling databases, and implementing authentication. I have hands-on experience with both MERN and Python full-stack development."
+  },
+  {
+    "question": "Are your projects mobile responsive?",
+    "answer": "Absolutely. I follow a mobile-first approach using Tailwind CSS and modern UI practices. I ensure applications are responsive, accessible, and tested across devices for consistent user experience."
+  },
+  {
+    "question": "How do you optimize application performance?",
+    "answer": "I optimize performance by using efficient API design, proper state management, lazy loading, caching strategies, and clean component structures. On the backend, I focus on optimized queries, pagination, and scalable data handling."
+  },
+  {
+    "question": "What is your approach to security?",
+    "answer": "I implement security best practices such as JWT-based authentication, secure password hashing, protected API routes, and proper environment variable management. I also educate teams and students on secure coding practices."
+  },
+  {
+    "question": "What are you currently learning or improving?",
+    "answer": "I am currently strengthening my knowledge in system design, DevOps automation, and advanced testing strategies. I am also exploring AI integration in web applications and improving CI/CD workflows for scalable deployments."
+  }
+]

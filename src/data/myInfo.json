@@ -1,0 +1,187 @@
+{
+  "id": "coding-bundle",
+  "subtitle": "Experienced full-stack developer and mentor delivering scalable MERN and Python solutions. Focused on clean code, performance, and real-world application architecture.",
+
+  "badge": "Full-Stack Developer (5+ Years) | Industry Mentor & Hiring-Oriented Trainer |  MERN & Python Full-Stack Specialist</>",
+  "gradient": "from-green-400 via-cyan-400 to-blue-500",
+  "buttonColor": "from-green-500 to-cyan-500",
+  "image": "2.png",
+  "experience": [
+    {
+      "title": "Technical Head | Full-Stack Mentor (MERN & Python)",
+      "location": "Gen Corpus Data Hub Pvt. Ltd., Calicut, India",
+      "duration": "Sep 2023 – Present",
+      "description": [
+        "Mentored 100+ students in MERN, Python, and full-stack development with a strong focus on industry-ready skills.",
+        "Designed and delivered structured curricula, machine tests, assessments, and real-world projects.",
+        "Built reusable project architectures, coding standards, and best practices for scalable applications.",
+        "Guided learners through CRUD apps, authentication systems, dashboards using Chart.js, REST APIs, and deployment workflows.",
+        "Collaborated with management to improve training quality, batch outcomes, and placement readiness."
+      ],
+      "icon": "🧑‍🏫"
+    },
+    {
+      "title": "Software Developer",
+      "location": "Pixbit Solutions Pvt. Ltd., Calicut, India",
+      "duration": "Aug 2022 – Aug 2023",
+      "description": [
+        "Developed full-stack features using Angular, Node.js, and RESTful APIs.",
+        "Built reusable UI components, services, and modules for scalable enterprise applications.",
+        "Integrated third-party APIs and optimized application performance.",
+        "Worked closely with cross-functional teams to deliver features on time."
+      ],
+      "icon": "💻"
+    },
+    {
+      "title": "Angular Developer",
+      "location": "Apto Innovations Pvt. Ltd., Calicut, India",
+      "duration": "Jun 2021 – Jul 2022",
+      "description": [
+        "Built responsive Angular applications with a modular and maintainable architecture.",
+        "Collaborated with designers and backend teams to implement features efficiently.",
+        "Ensured UI consistency, performance, and clean code practices."
+      ],
+      "icon": "🅰️"
+    },
+    {
+      "title": "Python Developer",
+      "location": "Cybrosys Technologies, Calicut, India",
+      "duration": "May 2020 – Jun 2021",
+      "description": [
+        "Developed and customized Odoo modules using Python, XML, and Odoo ORM.",
+        "Customized core Odoo applications including Sales, Inventory, and CRM modules.",
+        "Fixed bugs, optimized performance, and implemented basic API integrations."
+      ],
+      "icon": "🐍"
+    }
+  ],
+  "education": [
+    {
+      "location": "Bachelor of Technology (B.Tech) - Computer Science & Engineering",
+      "duration": "2016 -2020",
+      "title": "APJ Abdul Kalam Technological University (KTU), Kerala",
+      "icon": "🎓",
+      "cgpa": "7.0"
+    },
+    {
+      "location": "Higher Secondary Education (HSE) - Kerala Board",
+      "duration": "2014 - 2016",
+      "title": "St. Joseph's Higher Secondary School, Pullurampara",
+      "icon": "🏫"
+    },
+    {
+      "location": "High School Education",
+      "duration": "Completed in 2014",
+      "title": "Marian English Medium School, Anakkampoil",
+      "icon": "🏫"
+    }
+  ],
+  "techIcons": [
+    {
+      "name": "React",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "size": "large",
+      "angle": 0,
+      "tooltipColor": "#61DAFB"
+    },
+    {
+      "name": "Next.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+      "size": "large",
+      "angle": 45,
+      "tooltipColor": "#000000"
+    },
+    {
+      "name": "TypeScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      "size": "large",
+      "angle": 90,
+      "tooltipColor": "#3178C6"
+    },
+    {
+      "name": "Redux Toolkit",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+      "size": "large",
+      "angle": 135,
+      "tooltipColor": "#764ABC"
+    },
+    {
+      "name": "TanStack Query",
+      "src": "https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg",
+      "size": "large",
+      "angle": 180,
+      "tooltipColor": "#FF4154"
+    },
+    {
+      "name": "Node.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "size": "large",
+      "angle": 225,
+      "tooltipColor": "#339933"
+    },
+    {
+      "name": "Express.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      "size": "large",
+      "angle": 270,
+      "tooltipColor": "#000000"
+    },
+    {
+      "name": "MongoDB",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+      "size": "large",
+      "angle": 315,
+      "tooltipColor": "#47A248"
+    },
+
+    {
+      "name": "Docker",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "size": "small",
+      "angle": 0,
+      "tooltipColor": "#2496ED"
+    },
+    {
+      "name": "AWS",
+      "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+      "size": "small",
+      "angle": 60,
+      "tooltipColor": "#FF9900"
+    },
+    {
+      "name": "Git",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "size": "small",
+      "angle": 120,
+      "tooltipColor": "#F05032"
+    },
+    {
+      "name": "GitHub",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+      "size": "small",
+      "angle": 180,
+      "tooltipColor": "#181717"
+    },
+    {
+      "name": "Tailwind CSS",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+      "size": "small",
+      "angle": 240,
+      "tooltipColor": "#38B2AC"
+    },
+    {
+      "name": "Axios",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg",
+      "size": "small",
+      "angle": 300,
+      "tooltipColor": "#5A29E4"
+    },
+    {
+      "name": "Jira",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg",
+      "size": "small",
+      "angle": 330,
+      "tooltipColor": "#0052CC"
+    }
+  ]
+}
