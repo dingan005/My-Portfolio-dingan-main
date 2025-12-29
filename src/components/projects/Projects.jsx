@@ -44,7 +44,7 @@ const projects = [
     ],
     image: "/Ezensi.png",
     liveDemo: "https://ezansi.onrender.com/",
-    githubRepo: "https://github.com/SachinPro007/nextjs_full_stack_ai",
+    githubRepo: "",
     projectColor: "#4f46e5",
   },
   {
