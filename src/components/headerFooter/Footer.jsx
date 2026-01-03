@@ -163,7 +163,7 @@ const Footer = () => {
           >
             © {new Date().getFullYear()}{" "}
             <a
-              href="https://www.linkedin.com/in/sachinpro/"
+              href="https://www.linkedin.com/in/dimal-thomas-955183197"
               target="_blank"
               rel="noopener noreferrer"
             >
